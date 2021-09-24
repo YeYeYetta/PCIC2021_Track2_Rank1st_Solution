@@ -72,17 +72,5 @@ PAKDD 2021 2nd Alibaba Cloud AIOps Competition
 <div align=center> <img src="https://bbs-img.huaweicloud.com/blogs/img/20210924/1632497446845099933.PNG" width = 60%/> </div>
 
 Fig.11 是最终模型的特征重要性 TOP20。
-### 五、最终结果
-我的方案在Phase1，Phase2中均取得了线上第一名的成绩，并且最终成绩显著高于其他队伍。
-
-<div align=center> <img src="https://bbs-img.huaweicloud.com/blogs/img/20210924/1632497589801019852.PNG" width = 60%/> </div>
-
-最终的模型代码，会议中分享的原PPT均已开源至以下地址：[PCIC2021_Track2_Rank1st_Solution](https://github.com/YeYeYetta/PCIC2021_Track2_Rank1st_Solution)
-
-
-### 六、致谢
-感谢诺亚方舟实验室及北京大学联合举办的PCIC 2021，给大家提供了一次很好的学习，实践和交流的机会。
-感谢华为NAIE平台提供的算力支持。
-
 
 
